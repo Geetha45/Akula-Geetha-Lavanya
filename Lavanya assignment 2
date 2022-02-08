@@ -1,0 +1,7 @@
+#To convert kilometres into centrimeters
+Km=int(input ("enter the distance between two Cities in kilometres:))
+Cent=(km*100000)
+Print("Distance between two Cities in centimetres is:",cent)
+Output
+Enter the distance between two Cities in kilometres:450
+Distance between two Cities in centimetres is:45000000 
